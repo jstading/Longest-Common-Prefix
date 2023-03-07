@@ -2,7 +2,8 @@
 
 class Solution(object):
     def largest(self, strs):
-        print(strs)
+        ans = ""
+        return(ans)
 
 
 """Test Cases
